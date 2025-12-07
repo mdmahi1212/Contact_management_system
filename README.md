@@ -1,10 +1,9 @@
 # Contact Management System (C)
 
-A clean, beginner-friendly Contact Management System written in C.
-It uses **dynamic memory allocation**, **file-based storage**, and a modular multi-file structure.
-Contacts are stored, loaded, edited, deleted, and saved through a simple console menu.
+A console-based Contact Management System written in C. It relies on dynamic memory allocation, a file-backed storage system, and a clear multi-file structure. The program lets you add, load, edit, search, delete, and save contacts through a straightforward menu interface.
 
-The project is built to teach core C concepts while still functioning as a practical program.
+It demonstrates essential C programming techniques while remaining practical and easy to extend.
+
 
 ---
 
